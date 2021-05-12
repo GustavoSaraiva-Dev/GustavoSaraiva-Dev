@@ -10,6 +10,10 @@
 
 </div>
 
+```html
+<span style="color: blue;">algum texto</span>
+```
+
 
 <br>
 <p align="center">  
