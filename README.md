@@ -27,7 +27,7 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
 </p>
 
 <p align="center">
-  💬 Me chame para bater um papo: 🔽
+  💬 Me chame para bater um papo: 👇
 </p>
 
 <p align="center">
