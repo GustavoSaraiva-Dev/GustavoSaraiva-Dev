@@ -31,13 +31,13 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/keidsondesigner/" alt="Instagram">
+  <a href="https://www.instagram.com/guh.saraiva/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/guh.saraiva/"/></a>
   
-  <a href="https://www.facebook.com/keidsonroby/" alt="Facebook">
+  <a href="https://www.facebook.com/lg.saraiva" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/lg.saraiva/"/></a>
   
-  <a href="https://www.linkedin.com/in/keidsonroby/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/luiz-gustavo-saraiva/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-gustavo-saraiva/" /></a>
 </p>  
 
