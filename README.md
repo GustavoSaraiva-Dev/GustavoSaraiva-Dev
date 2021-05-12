@@ -9,11 +9,6 @@
 <img src="https://raw.githubusercontent.com/GustavoSaraiva-Dev/GustavoSaraiva-Dev/main/codeguy.png" width="700px" />
 
 </div>
-
-<div class="text-purple">
-  This text is purple, <a href="#" class="text-inherit">including the link</a>
-</div>
-
 <br>
 <p align="center">  
   Sou <strong>Programador Full Stack</strong> e <strong>apaixonado</strong> por tecnologia, principalmente programação!!.<br />
