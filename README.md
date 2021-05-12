@@ -1,6 +1,6 @@
 <span align="center">
 
-## <img src="#" width="30px"> Olá seja bem-vindo(a) ao meu perfil!</h2>
+## <img src="#" width="30px"> Oi, seja bem-vindo(a) ao meu perfil!</h2>
 
 </span>
 
@@ -27,7 +27,7 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
 </p>
 
 <p align="center">
-  💌 Me chame para bater um papo: ⤵️
+  💬 Me chame para bater um papo: 🔽
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-gustavo-saraiva/" /></a>
 </p>  
 
-## 💻 Technologies & Tools
+## ⚙ Technologies & Tools
 
 <p align="center">
   
