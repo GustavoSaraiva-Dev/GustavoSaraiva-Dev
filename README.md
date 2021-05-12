@@ -19,11 +19,11 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
 </p>
 
 <p align="center">
-  💼 🏁 Habilidades: <strong>C#, SQL, HTML, CSS, Javascript, TypeScript, ReactJS, React Native, GitHub, Vercel,</strong>
+  🏁 Habilidades: <strong>C#, SQL, HTML, CSS, Javascript, TypeScript, ReactJS, React Native, GitHub, Vercel</strong>
 </p>
 
 <p align="center">
-  🚀  Estudando: <strong>JavaScript, Typescript e React.</strong>
+  🚀  Estudando: <strong>Flutter, Dart, ASP.NET Core, GraphQL</strong>
 </p>
 
 <p align="center">
