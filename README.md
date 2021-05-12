@@ -30,9 +30,7 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
   💬 Me chame para bater um papo: 👇
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/guh.saraiva/"/>
-  
+<p align="center">  
   <a href="https://www.instagram.com/guh.saraiva/" target="_blank" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/guh.saraiva/"/></a>
   
