@@ -1,6 +1,6 @@
 <span align="center">
 
-## <img src="#" width="30px"> Olá seja bem-vindo(a)!</h2>
+## <img src="#" width="30px"> Olá seja bem-vindo(a) ao meu perfil!</h2>
 
 </span>
 
@@ -27,7 +27,7 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
 </p>
 
 <p align="center">
-  💌 Me chame para : ⤵️
+  💌 Me chame para bater um papo: ⤵️
 </p>
 
 <p align="center">
@@ -52,10 +52,11 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
 
 
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
+<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
 <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm" height="25"/>
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/CSS3-%1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/firebase-%23F7DF1E.svg?&style=for-the-badge&logo=firebase&logoColor=white" height="25"/>
 
 </p>
