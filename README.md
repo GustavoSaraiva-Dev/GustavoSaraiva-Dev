@@ -35,7 +35,7 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/guh.saraiva/"/></a>
   
   <a href="https://www.facebook.com/lg.saraiva" target="_blank" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/lg.saraiva/"/></a>
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&colorA=black&logo=facebook&logoColor=white&link=https://www.facebook.com/lg.saraiva/"/></a>
   
   <a href="https://www.linkedin.com/in/luiz-gustavo-saraiva/" target="_blank" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-gustavo-saraiva/" /></a>
