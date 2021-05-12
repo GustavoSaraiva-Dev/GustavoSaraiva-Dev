@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="700px" />
+<img src="https://raw.githubusercontent.com/GustavoSaraiva-Dev/GustavoSaraiva-Dev/main/codeguy.png" width="700px" />
 
 </div>
 
