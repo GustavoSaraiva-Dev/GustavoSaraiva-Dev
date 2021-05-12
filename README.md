@@ -12,8 +12,7 @@
 
 
 <br>
-<p align="center">
-  <span style="color:blue">some *This is Blue italic.* text</span>
+<p align="center">  
   Sou <strong>Programador Full Stack</strong> e <strong>apaixonado</strong> por tecnologia, principalmente programação!!.<br />
 <strong>Tenho um grande sonho</strong> de me tornar um <strong>Programador,</strong>
 e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</strong>.
