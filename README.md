@@ -48,6 +48,7 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
  <img src="https://img.shields.io/badge/-Typecript-007ACC?style=flat-square&colorA=151321&colorB=007ACC&logo=typescript&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/React%20Js%20-%2320232a.svg?&style=flat-square&colorA=151321&colorB=2361DA&logo=react&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/React%20Native-574394?&style=flat-square&colorA=151321&logo=react&logoColor=white" height="25"/>
+<a href="https://www.figma.com/" target="_blank" alt="Figma"><img src="https://img.shields.io/badge/Figma-F24E1E?&style=flat-square&colorA=151321&logo=figma&logoColor=white" height="25"/></a>
 <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm" height="25"/>
 
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
@@ -58,7 +59,7 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
 
 ## ⭐ GitHub Stats
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosaraiva-dev&bg_color=DEG,14141B,0D1117&title_color=00C843&text_color=DBDBDB&icon_color=00C843&border_color=00C843&show_icons=true&layout=compact&custom_title=Top 5 Most Used Languages">
-<img src = "https://github-readme-stats.vercel.app/api?username=gustavosaraiva-dev&bg_color=DEG,14141B,0D1117&title_color=00C843&text_color=DBDBDB&icon_color=00C843&border_color=00C843&show_icons=true&line_height=25&hide_title=true">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosaraiva-dev&bg_color=DEG,14141B,0D1117&title_color=00C843&text_color=DBDBDB&icon_color=00C843&border_color=00C843&show_icons=true&layout=compact&custom_title=Top 5 Most Used Languages">
+<img src="https://github-readme-stats.vercel.app/api?username=gustavosaraiva-dev&bg_color=DEG,14141B,0D1117&title_color=00C843&text_color=DBDBDB&icon_color=00C843&border_color=00C843&show_icons=true&line_height=25&hide_title=true">
 </p>
