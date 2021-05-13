@@ -44,16 +44,15 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
 <p align="center">
   
  
- <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&colorA=151321&colorB=f7df1e&logo=javascript&logoColor=white" height="25"/> 
- <img src="https://img.shields.io/badge/-Typecript-007ACC?style=flat-square&colorA=151321&colorB=007ACC&logo=typescript&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/React%20Js%20-%2320232a.svg?&style=flat-square&colorA=151321&colorB=2361DA&logo=react&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/React%20Native-574394?&style=flat-square&colorA=151321&logo=react&logoColor=white" height="25"/>
-<a href="https://www.figma.com/" target="_blank" alt="Figma"><img src="https://img.shields.io/badge/Figma-F24E1E?&style=flat-square&colorA=151321&logo=figma&logoColor=white" height="25"/></a>
-<img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm" height="25"/>
-
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/firebase-%23F7DF1E.svg?&style=for-the-badge&logo=firebase&logoColor=white" height="25"/>
+ <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&colorA=151321&colorB=f7df1e&logo=javascript&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/-Typecript-007ACC?style=flat-square&colorA=151321&colorB=007ACC&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React%20Js%20-%2320232a.svg?&style=flat-square&colorA=151321&colorB=2361DA&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/React%20Native-574394?&style=flat-square&colorA=151321&logo=react&logoColor=white"/>
+<a href="https://www.figma.com/" target="_blank" alt="Figma"><img src="https://img.shields.io/badge/Figma-F24E1E?&style=flat-square&colorA=151321&logo=figma&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm"/>
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/firebase-%23F7DF1E.svg?&style=flat-square&logo=firebase&logoColor=white"/>
 
 </p>
 
