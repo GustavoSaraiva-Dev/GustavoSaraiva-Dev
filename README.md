@@ -30,13 +30,13 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
 
 <p align="center">  
   <a href="https://www.instagram.com/guh.saraiva/" target="_blank" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&colorA=E4405F&colorB=14141B&logo=instagram&logoColor=white&logoWidth=20&link=https://www.instagram.com/guh.saraiva/"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&colorA=E4405F&colorB=151321&logo=instagram&logoColor=white&logoWidth=20&link=https://www.instagram.com/guh.saraiva/"/></a>
   
   <a href="https://www.facebook.com/lg.saraiva" target="_blank" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&colorA=3b5998&colorB=14141B&logo=facebook&logoColor=white&logoWidth=20&link=https://www.facebook.com/lg.saraiva/"/></a>
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&colorA=3b5998&colorB=151321&logo=facebook&logoColor=white&logoWidth=20&link=https://www.facebook.com/lg.saraiva/"/></a>
   
   <a href="https://www.linkedin.com/in/luiz-gustavo-saraiva/" target="_blank" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&colorA=0e76a8&colorB=14141B&logo=Linkedin&logoColor=white&logoWidth=20&link=https://www.linkedin.com/in/luiz-gustavo-saraiva/" /></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&colorA=0e76a8&colorB=151321&logo=Linkedin&logoColor=white&logoWidth=20&link=https://www.linkedin.com/in/luiz-gustavo-saraiva/" /></a>
 </p>  
 
 ## ⚙ Technologies & Tools
@@ -44,15 +44,12 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
 <p align="center">
   
  
- <img src="https://img.shields.io/badge/-javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25"/>
- 
- <img src="https://img.shields.io/badge/-typecript-%23007ACC?style=flat-square&logo=typescript&logoColor=white" height="25"/>
-
-
-<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
-<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
-<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
+ <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&colorA=151321&colorB=f7df1e&logo=javascript&logoColor=white" height="25"/> 
+ <img src="https://img.shields.io/badge/-Typecript-007ACC?style=flat-square&colorA=151321&colorB=007ACC&logo=typescript&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/React%20Js%20-%2320232a.svg?&style=flat-square&colorA=151321&colorB=2361DA&logo=react&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/React%20Native-574394?&style=flat-square&colorA=151321&logo=react&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm" height="25"/>
+
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/firebase-%23F7DF1E.svg?&style=for-the-badge&logo=firebase&logoColor=white" height="25"/>
