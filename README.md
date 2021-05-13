@@ -70,7 +70,7 @@ Então fica aqui esse breve resumo de quem sou e o que eu busco, e deixo uma fra
 <a href="https://reactnative.dev/" target="_blank" alt="React Native">
   <img src="https://img.shields.io/badge/React%20Native-574394?&style=flat-square&colorA=151321&logo=react&logoColor=white"/>
 </a>
-<a href="https://reactnative.dev/" target="_blank" alt="Flutter">
+<a href="https://flutter.dev/" target="_blank" alt="Flutter">
   <img src="https://img.shields.io/badge/Flutter-02569B?&style=flat-square&colorA=151321&logo=flutter&logoColor=white"/>
 </a>
 <a href="https://www.figma.com/" target="_blank" alt="Figma">
