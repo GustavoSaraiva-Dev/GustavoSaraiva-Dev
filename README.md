@@ -17,7 +17,7 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
 </p>
 
 <p align="center">
-  🏁 Habilidades: <strong>C#, SQL, HTML, CSS, Javascript, TypeScript, ReactJS, React Native, GitHub, Vercel</strong>
+  🏁 Habilidades: <strong>C#, SQL, HTML, CSS, Javascript, TypeScript, ReactJS, React Native, GitHub</strong>
 </p>
 
 <p align="center">
@@ -30,13 +30,13 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
 
 <p align="center">  
   <a href="https://www.instagram.com/guh.saraiva/" target="_blank" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/guh.saraiva/"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&colorA=E4405F&colorB=14141B&logo=instagram&logoColor=white&logoWidth=20&link=https://www.instagram.com/guh.saraiva/"/></a>
   
   <a href="https://www.facebook.com/lg.saraiva" target="_blank" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&colorA=black&logo=facebook&logoColor=white&link=https://www.facebook.com/lg.saraiva/"/></a>
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&colorA=3b5998&colorB=14141B&logo=facebook&logoColor=white&logoWidth=20&link=https://www.facebook.com/lg.saraiva/"/></a>
   
   <a href="https://www.linkedin.com/in/luiz-gustavo-saraiva/" target="_blank" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-gustavo-saraiva/" /></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&colorA=0e76a8&colorB=14141B&logo=Linkedin&logoColor=white&logoWidth=20&link=https://www.linkedin.com/in/luiz-gustavo-saraiva/" /></a>
 </p>  
 
 ## ⚙ Technologies & Tools
