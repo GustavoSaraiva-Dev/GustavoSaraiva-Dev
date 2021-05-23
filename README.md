@@ -78,6 +78,7 @@ Então fica aqui esse breve resumo de quem sou e o que eu busco, e deixo uma fra
 </a>
 <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm"/>
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/>
+  <img src="https://img.shields.io/badge/Best-icons-E4405F?style=for-the-badge&colorA=7ed321&colorB=DDDDDD&logo=simple-icons&logoColor=000000&logoWidth=20&link=https://www.instagram.com/guh.saraiva/" />
 
 </p>
 
