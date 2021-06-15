@@ -1,6 +1,6 @@
 <span align="center">
 
-## <img src="#" width="30px"> Oi, seja bem-vindo(a) ao meu perfil!</h2>
+## <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Oi, seja bem-vindo(a) ao meu perfil!</h2>
 
 </span>
 
