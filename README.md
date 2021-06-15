@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/GustavoSaraiva-Dev/GustavoSaraiva-Dev/main/codeguy.png" width="700px" />
+<img src="https://raw.githubusercontent.com/luizgustavosaraiva/GustavoSaraiva-Dev/main/codeguy.png" width="700px" />
 
 </div>
 <br>
