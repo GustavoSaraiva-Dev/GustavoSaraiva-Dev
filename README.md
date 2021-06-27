@@ -88,7 +88,7 @@ Então fica aqui esse breve resumo de quem sou e o que eu busco, e deixo uma fra
 ## ⭐ GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gustavosaraiva-dev&bg_color=DEG,14141B,0D1117&title_color=00C843&text_color=DBDBDB&icon_color=00C843&border_color=00C843&show_icons=true&line_height=25&hide_title=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosaraiva-dev&bg_color=DEG,14141B,0D1117&title_color=00C843&text_color=DBDBDB&icon_color=00C843&border_color=00C843&show_icons=true&layout=compact&custom_title=Top 5 Most Used Languages">
+<img src="https://github-readme-stats.vercel.app/api?username=luizgustavosaraiva&bg_color=DEG,14141B,0D1117&title_color=00C843&text_color=DBDBDB&icon_color=00C843&border_color=00C843&show_icons=true&line_height=25&hide_title=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgustavosaraiva&bg_color=DEG,14141B,0D1117&title_color=00C843&text_color=DBDBDB&icon_color=00C843&border_color=00C843&show_icons=true&layout=compact&custom_title=Top 5 Most Used Languages">
 
 </p>
