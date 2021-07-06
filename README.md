@@ -1,19 +1,16 @@
-<span align="center">
 
-## <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Oi, seja bem-vindo(a) ao meu perfil!</h2>
-
-</span>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/luizgustavosaraiva/GustavoSaraiva-Dev/main/codeguy.png" width="700px" />
+<img align="right" src="https://raw.githubusercontent.com/luizgustavosaraiva/GustavoSaraiva-Dev/main/codeguy.png" width="480px" />
 
 </div>
 <br>
-<p align="center">  
+<p align="left">  
   Sou <strong>Programador Full Stack</strong> e um <strong> apaixonado</strong> por toda a maravilhosa tecnologia do mundo.
 
 Sempre sonhei em estar presente no mercado tecnológico, especificamente no mundo da programação, mas a luta veio desde cedo e sempre adiei esse sonho para por as contas em dia.
+<br>
 Mas um dia depois de muito tempo resolvi dar a volta por cima, então mergulhei de cabeça em tudo que eu encontrava sobre os assuntos que mais gostava.
 Hoje após já estar no mercado vejo o quão importante foi o foco para chegar até aqui.
 
@@ -24,19 +21,19 @@ Então fica aqui esse breve resumo de quem sou e o que eu busco, e deixo uma fra
 
 </p>
 
-<p align="center">
+<p align="left">
   ⚡ Habilidades: <strong>C#, SQL, HTML, CSS, Javascript, TypeScript, ReactJS, React Native, Scrum</strong>
 </p>
 
-<p align="center">
+<p align="left">
   🔎  Estudando: <strong>Flutter, Dart, ASP.NET Core, GraphQL</strong>
 </p>
 
-<p align="center">
+<p align="left">
   💬 Me chame para bater um papo: 👇
 </p>
 
-<p align="center">  
+<p>  
   <a href="https://www.instagram.com/guh.saraiva/" target="_blank" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&colorA=E4405F&colorB=151321&logo=instagram&logoColor=white&logoWidth=20&link=https://www.instagram.com/guh.saraiva/"/></a>
   
